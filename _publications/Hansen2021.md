@@ -1,7 +1,7 @@
 ---
 title: "Charge Interactions in a Highly Charge-depleted Protein"
 collection: publications
-permalink: /publication/Hervo-Hansen2021
+permalink: /publication/Hansen2021
 excerpt: 'We used constant pH molecular dynamics simulations, NMR spectroscopy, and thermodynamic double mutant cycles to probe the structure and energetics of the interaction between the charged residues.'
 date: 2021-02
 venue: 'Journal of the American Chemical Society'
@@ -14,7 +14,7 @@ Electrostatic forces are important for protein folding and are favored targets o
 
 [DOI](https://doi.org/10.1021/jacs.0c10789)
 
-[Download paper here](https://yongwangcph.github.io/files/Hervo-Hansen2021.pdf)
+[Download paper here](https://yongwangcph.github.io/files/Hansen2021.pdf)
 
 
 
