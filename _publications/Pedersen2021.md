@@ -1,7 +1,7 @@
 ---
 title: "Properdin oligomers adopt rigid extended conformations supporting function"
 collection: publications
-permalink: /publication/Hansen2021
+permalink: /publication/Pedersen2021
 excerpt: 'We show by combining EM, SAXS and MD simulations, that properdin oligomers adopt extended rigid and well-defined conformations.'
 date: 2021-01-22
 venue: 'eLife'
