@@ -8,5 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-
-#![Yong Wang](/images/yonghead2.jpg)
