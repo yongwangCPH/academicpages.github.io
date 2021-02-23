@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yong Wang"
+title                    : "Integrative Multiscale Computational Structural Biology Lab"
 title_separator          : "-"
-name                     : &name "Yong "
+name                     : &name "Yong Wang"
 description              : &description "He holds BSc degrees in Computer Science (minor) and Chemistry (major) from Jilin University 
 and an MSc degree in Analytical Chemistry from University of Chinese Academy of Sciences. 
 His work during this period focused on answering basic biophysical problems e.g. in the areas of protein folding, intrinsically disordered proteins, 
