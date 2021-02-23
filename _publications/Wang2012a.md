@@ -10,5 +10,6 @@ citation: 'Wang Y, Tang C, Wang E, Wang J (2012) Exploration of Multi-State Conf
 ---
 
 [DOI](https://doi.org/10.1371/journal.pcbi.1002471)
+![image](/images/MBP.jpg)
 
 [Download paper here](https://yongwangcph.github.io/files/Wang2012a.pdf)
