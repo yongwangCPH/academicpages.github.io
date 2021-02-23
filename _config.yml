@@ -82,10 +82,7 @@ analytics:
 author:
   name             : "Yong"
   avatar           : "profile.png"
-  bio              : "He holds BSc degrees in Computer Science (minor) and Chemistry (major) from Jilin University 
-  and an MSc degree in Analytical Chemistry from University of Chinese Academy of Sciences. 
-  His work during this period focused on answering basic biophysical problems e.g. in the areas of protein folding, intrinsically disordered proteins, 
-  and large-scale conformational changes in folded proteins using coarse-grained models and enhanced sampling methods."
+  bio              : "Computational biophysist and integrative structural modeller."
   location         : "Copenhagen"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=yong+wang"
