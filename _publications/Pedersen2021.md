@@ -25,7 +25,7 @@ Hence, the observed rigid extended oligomer structure is an integral component o
 [DOI](https://doi.org/10.7554/eLife.63356)
 
 [Social Media: Dennis tamed the protein from hell in seven years](https://mbg.au.dk/en/news-and-events/news-item/artikel/dennis-tamed-the-protein-from-hell-in-seven-years)
-![Social Media](https://github.com/yongwangCPH/yongwangCPH.github.io/edit/master/images/Dennis2021.png)
+![image](https://github.com/yongwangCPH/yongwangCPH.github.io/edit/master/images/Dennis2021.png)
 
 [Download paper here](https://yongwangcph.github.io/files/Pedersen2021.pdf)
 
