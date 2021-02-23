@@ -5,7 +5,7 @@ permalink: /publication/Hervo-Hansen2021
 excerpt: 'We used constant pH molecular dynamics simulations, NMR spectroscopy, and thermodynamic double mutant cycles to probe the structure and energetics of the interaction between the charged residues.'
 date: 2021-02
 venue: 'Journal of the American Chemical Society'
-paperurl: 'https://yongwangcph.github.io/files/Hervo-Hansen2021.pdf'
+paperurl: 'https://doi.org/10.1021/jacs.0c10789'
 citation: 'Stefan Hervø-Hansen, Casper Højgaard, Kristoffer Enøe Johansson, Yong Wang, Khadija Wahni, David Young, Joris Messens, Kaare Teilum, Kresten Lindorff-Larsen, and Jakob Rahr Winther. J. Am. Chem. Soc. 2021, 143, 6, 2500–2508. DOI: 10.1021/jacs.0c10789 ' 
 ---
 
@@ -13,5 +13,7 @@ Electrostatic forces are important for protein folding and are favored targets o
 
 
 [DOI](https://doi.org/10.1021/jacs.0c10789)
+[Download paper here](https://yongwangcph.github.io/files/Hervo-Hansen2021.pdf)
+
 
 
