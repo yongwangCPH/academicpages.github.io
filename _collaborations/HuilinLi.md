@@ -1,10 +1,8 @@
 ---
 title: "Huilin Li"
 collection: collaborator
-type: "MS"
-permalink: /collaborations/HuilinLi
-venue: "Mass Spectroscopy"
 date: 2020-06-01
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 location: "Guangdong Key Laboratory of Chiral Molecule and Drug Discovery, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, Guangdong, China"
 ---
 
