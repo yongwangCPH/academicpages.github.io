@@ -190,6 +190,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  collaborators:
+    output: true
+    permalink: /:collaborators/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -237,6 +240,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _collaborators
+  - scope:
+      path: ""
+      type: collaborators
     values:
       layout: single
       author_profile: true
